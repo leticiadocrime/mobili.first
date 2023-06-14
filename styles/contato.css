@@ -5,4 +5,13 @@
 
 .contato__titulo,
 .contato__texto{
-  background:var(--azul
+  background:var(--azul)
+  -webkit-background-clip:text;
+  webkit-text-fill-color:transparent;
+  background-clip:text;
+}
+
+.contato__titulo{
+  font-size: 18px;
+  font-weight: 500;
+}
