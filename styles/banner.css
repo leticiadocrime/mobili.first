@@ -24,4 +24,12 @@
   width:100%
 }
 
+.banner__pesquisa::placeholder {
+  font-family: var(--fonte-principal);
+  fonr-size: 14px;
+  font-weight: 400;
+  text-align: center;
+  color: var(--branco);
+  background: url
+
 
