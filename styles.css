@@ -8,8 +8,8 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-    --laranja: #EB9B00;
-    --azul-degrade: linear-gradient(97.54deg, #1E90FF 35.49%, #EE82EE 165.37%);
+    --grey : #BEBEBE;
+    --azul-degrade: linear-gradient(97.54deg, #080101 65.49%, #b3abac 135.37%);
     --fonte-principal: "Poppins";
     --azul: #002F52;
     --fonte-secundario: "Josefin Sans";
@@ -24,3 +24,4 @@ body {
     font-size: 16px;
     font-weight: 400;
 }
+
